@@ -2,7 +2,7 @@ import React from 'react';
 
 const Skills: React.FC = () => {
   return (
-    <section id="skills" className="bg-gray-100 py-8">
+    <section id="skills" className="bg-gray-100 py-8 px-5 lg:px-1">
       <div className="container mx-auto">
         <h2 className="text-3xl font-bold mb-4">Skills</h2>
         <ul className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">

@@ -16,7 +16,7 @@ const ContactForm: React.FC<ContactFormProps> = ({ showSuccessModal, setShowSucc
   }
 
   return (
-    <section id="contact" className="bg-gray-100 py-8">
+    <section id="contact" className="bg-gray-100 py-8 px-5">
       <div className="container mx-auto">
         <h2 className="text-3xl font-bold mb-4">Contact Me</h2>
         <p className="text-lg">
